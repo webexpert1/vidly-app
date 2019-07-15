@@ -1,0 +1,19 @@
+{
+  "name": "vidly-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Richard",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "^3.18.0",
+    "joi": "^13.1.0",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
